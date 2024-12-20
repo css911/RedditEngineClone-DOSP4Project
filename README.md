@@ -39,13 +39,13 @@ The REST API provides the following endpoints for interaction:
    ```bash
    go run client.go
 
-##Project Structure
+## Project Structure
   redditMessagesType.go: Defines the structures for messages between actors.
   redditEngineActor.go: Contains the core engine logic using actor-based concurrency.
   simulator.go: Simulates user activity on the platform.
   main.go: Sets up the REST API server and routes HTTP requests.
 
-##Performance
+## Performance
    The system scales efficiently with user activity. Below are some performance metrics:
 
    Number of Users	Number of Activities	Time Taken (seconds)
@@ -54,11 +54,12 @@ The REST API provides the following endpoints for interaction:
    2000	2000	522
 A Zipf distribution model is used to simulate subreddit popularity.
 
-##Demo Video
+## Demo Video
 Watch the project in action: YouTube Link
 
-Contributors
+## Contributors
 Chetan Shinde (UFID: 92044184)
 Manoj Deo (UFID: 83224893)
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
