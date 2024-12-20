@@ -30,8 +30,8 @@ The REST API provides the following endpoints for interaction:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/reddit-clone.git
-   cd reddit-clone
+   git clone https://github.com/css911/DOSP4Project.git
+   cd DOSP4Project
 2. Start the server:
    ```bash
    go run main.go
