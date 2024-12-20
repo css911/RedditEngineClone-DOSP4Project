@@ -48,11 +48,12 @@ The REST API provides the following endpoints for interaction:
 ## Performance
    The system scales efficiently with user activity. Below are some performance metrics:
 
-   Number of Users	Number of Activities	Time Taken (seconds)
-   20	20	6.41
-   1000	1000	256
-   2000	2000	522
-A Zipf distribution model is used to simulate subreddit popularity.
+| Number of Users | Number of Activities | Time Taken (seconds) |
+|------------------|-----------------------|-----------------------|
+| 20               | 20                   | 6.41                 |
+| 1000             | 1000                 | 256                  |
+| 2000             | 2000                 | 522                  |
+
 
 ## Demo Video
 Watch the project in action: https://www.youtube.com/watch?v=WBC6-x98zAc
