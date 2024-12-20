@@ -12,7 +12,7 @@ This project implements a Reddit-like engine with core functionalities such as a
 4. **Commenting**
    - Add hierarchical comments to posts.
 5. **Simulation**
-   - Simulates user activity, including Zipf distribution for subreddit popularity and reposting.
+   - Simulates user activity.
 
 ## REST API Endpoints
 The REST API provides the following endpoints for interaction:
@@ -59,8 +59,8 @@ The REST API provides the following endpoints for interaction:
 Watch the project in action: https://www.youtube.com/watch?v=WBC6-x98zAc
 
 ## Contributors
-Chetan Shinde (UFID: 92044184)
-Manoj Deo (UFID: 83224893)
+Chetan Shinde <br>
+Manoj Deo
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
