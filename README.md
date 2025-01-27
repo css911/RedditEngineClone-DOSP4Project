@@ -1,4 +1,5 @@
 # Reddit Clone with REST API
+![image](https://github.com/user-attachments/assets/d1485cac-c149-41df-ad5c-8025f2a406d5)
 
 This project implements a Reddit-like engine with core functionalities such as account registration, subreddit management, posting, commenting and hierarchical comments. It includes a REST API interface for client interactions and supports simulated user activity for performance testing. 
 
